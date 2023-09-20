@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Avishek Kumar Sah 👋</h1>
 <h3 align="center">A passionate Software Developer.</h3>
-
+<img align="right" alt="CodingGIF" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*vel6K7Qm9iX8mBCrZit0sw.gif">
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
     <li>📫 Reach me  at <strong>sahibsingh.work@gmail.com</strong></li>
