@@ -4,7 +4,7 @@
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
     <li>📫 Reach me  at <strong>sahibsingh.work@gmail.com</strong></li>
-    <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1GH1Worxn9TrLtZl13WrSTxoFfNrdLM4a/view?usp=drive_link">here</a></li>
+    <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1GH1Worxn9TrLtZl13WrSTxoFfNrdLM4a/view?usp=drive_link" target="_blank">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
