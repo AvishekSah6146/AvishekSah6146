@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Developer.</h3>
 <img align="right" alt="CodingGIF" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*vel6K7Qm9iX8mBCrZit0sw.gif">
 <ul type="none">
-    <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
-    <li>📫 Reach me  at <strong>sahibsingh.work@gmail.com</strong></li>
+    <li>🎓 I am currently pursuing my <strong>Bachelor's in Computer Science and Engineering</strong></li>
+    <li>📫 Reach me  at <strong>Avisheksah6146392@gmail.com</strong></li>
     <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1GH1Worxn9TrLtZl13WrSTxoFfNrdLM4a/view?usp=drive_link" target="_blank">here</a></li>
 </ul>
 
