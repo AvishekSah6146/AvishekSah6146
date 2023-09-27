@@ -4,7 +4,7 @@
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Computer Science and Engineering</strong></li>
     <li>📫 Reach me  at <strong>Avisheksah6146392@gmail.com</strong></li>
-    <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1GH1Worxn9TrLtZl13WrSTxoFfNrdLM4a/view?usp=drive_link" target="_blank">here</a></li>
+    <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1JPgA5DW8MwFpBt_xTPY3Xh_5nqycXh6c/view?usp=drive_link">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
